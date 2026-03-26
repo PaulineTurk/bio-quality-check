@@ -1,0 +1,9 @@
+sample_id,gene,expression,housekeeping_gene,condition
+S1,TP53,12.5,10.0,control
+S2,TP53,13.2,10.5,control
+S3,TP53,200.0,9.8,control
+S4,TP53,-5.0,10.2,treated
+S5,TP53,11.8,0.0,treated
+S6,TP53,,10.1,treated
+S7,TP53,12.1,10.3,control
+S8,TP53,11.9,10.4,treated
